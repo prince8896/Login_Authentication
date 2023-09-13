@@ -1,0 +1,64 @@
+
+h1{
+    height: 20px;
+    width: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 635px;
+    color: rgb(87, 87, 58);
+    font-size:500%;
+}
+.container{
+    height: 290px;
+    width: 249px;
+    border: 2px solid blueviolet;
+    background: gold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 530px;
+    margin-top: 130px;
+    border-radius:17px ;
+    box-shadow:20px;
+}
+.butten{
+    margin-left: 35px;
+    margin-top: 7px;
+    border-radius: 15px;
+    width: 75px;
+  color: wheat;
+  background-color: blue;
+  cursor: pointer;
+  height: 32px;
+}
+.sign{
+    color: blue;
+}
+
+.heading{
+    
+        height: 10px;
+        width: 27px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-left: 635px;
+        color: rgb(87, 87, 58);
+        font-size:430%;
+    
+       
+}
+.contain{
+    height: 357px;
+    width: 265px;
+    border: 2px solid blueviolet;
+    background: gold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 530px;
+    margin-top: 130px;
+    border-radius:17px ;
+    box-shadow:20px;
+}
